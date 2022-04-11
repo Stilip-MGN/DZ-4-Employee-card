@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Employee card</string>
+    <string name="tel">89999999999</string>
+    <string name="mail">tensor@tensor.ru</string>
+    <string name="alert_info">Инженер-программист 3 категории: высшее профессиональное (техническое или инженерно-экономическое)
+        образование и опыт работы по специальности, приобретенный в период обучения, или стаж работы на инженерно-технических должностях без квалификационной категории.</string>
+    <string name="info">Разработка/Розница, Presto и Салон красоты/Мобильная розница, Presto И Склад/Мобильная розница и Presto/менеджер продукта: Финогенов С./Розница Android</string>
+    <string name="online">В сети</string>
+    <string name="location">Локация:</string>
+    <string name="birthday">День рождения:</string>
+    <string name="phone">Телефон:</string>
+    <string name="email">E-mail:</string>
+    <string name="contact_with_me">Связаться со мной</string>
+    <string name="reward">Достижения</string>
+    <string name="working">Работает</string>
+    <string name="open_profile">Открыть профиль</string>
+    <string name="date_birthday">20.04.1997</string>
+</resources>
